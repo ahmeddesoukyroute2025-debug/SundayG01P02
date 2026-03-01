@@ -5,7 +5,12 @@
 using namespace std;
 int main()
 {
-	cout << "Hamada";
+	cout << "this is alaa , i love coding";
+	for (int i = 1; i <= 10; i++) {
+		cout << "Hambozo lawy Bozo";
+	}
+
+	cout << "this is baligh , el session lesa manzltsh hatnzl amta?";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
