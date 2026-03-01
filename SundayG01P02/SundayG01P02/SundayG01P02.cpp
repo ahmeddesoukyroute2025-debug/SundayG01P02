@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-	cout << "Hamada";
+	cout << "Ibrahim el abyad";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
